@@ -2976,6 +2976,9 @@
   "/github/notifications": [
     "zhzy0077"
   ],
+  "/github/feed/:user/:types?": [
+    "RtYkk"
+  ],
   "/github/pull/:user/:repo/:state?/:labels?": [
     "hashman",
     "TonyRL"
@@ -5208,6 +5211,9 @@
   "/mysql/release/:version?": [
     "nczitzk"
   ],
+  "/nankai/yzb/:type?": [
+    "sddzhyc"
+  ],
   "/nasa/apod-cn": [
     "nczitzk",
     "williamgateszhao"
@@ -5335,6 +5341,27 @@
   ],
   "/newseed/latest": [
     "p3psi-boo"
+  ],
+  "/newslaundry/explainer": [
+    "Rjnishant530"
+  ],
+  "/newslaundry/nl-cheatsheet": [
+    "Rjnishant530"
+  ],
+  "/newslaundry/nl-collaborations": [
+    "Rjnishant530"
+  ],
+  "/newslaundry/podcast/:category?": [
+    "Rjnishant530"
+  ],
+  "/newslaundry/reports": [
+    "Rjnishant530"
+  ],
+  "/newslaundry/shot": [
+    "Rjnishant530"
+  ],
+  "/newslaundry/subscriber-only": [
+    "Rjnishant530"
   ],
   "/newsmarket/:category?": [
     "nczitzk"
@@ -7400,6 +7427,9 @@
   "/tangshufang/:category?": [
     "nczitzk"
   ],
+  "/taobao/mysql/monthly": [
+    "nczitzk"
+  ],
   "/taobao/zhongchou/:type?": [
     "xyqfer",
     "Fatpandac"
@@ -8159,6 +8189,9 @@
     "ViggoC"
   ],
   "/wdc/download/:id?": [],
+  "/wdfxw/bookfree/:id?": [
+    "nczitzk"
+  ],
   "/web/articles": [
     "KarasuShin"
   ],
